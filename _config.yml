@@ -1,5 +1,7 @@
-title: 「私のブログへようこそ」
-date: 2021-02-01 
+---
+タイトル："あなたのブログ投稿タイトル"
+日付：2022-02-01
+---
 author: Ayumu Shimizu
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
